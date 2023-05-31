@@ -1,0 +1,19 @@
+{
+  "name": "jayway523.github.io",
+  "version": "1.0.0",
+  "description": "Personal Website ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayway523/jayway523.github.io.git"
+  },
+  "author": "Jordan Peterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayway523/jayway523.github.io/issues"
+  },
+  "homepage": "https://github.com/Jayway523/jayway523.github.io#readme"
+}
